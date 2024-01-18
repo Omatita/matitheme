@@ -1,0 +1,21 @@
+{
+  "name": "matitheme",
+  "displayName": "Matitheme",
+  "description": "neon purple theme for real coders",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matitheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matitheme-color-theme.json"
+      }
+    ]
+  }
+}
