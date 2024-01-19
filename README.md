@@ -1,16 +1,26 @@
-# matitheme README
+# Matitheme
 
-## Working with Markdown
+A very purple teme for real coders
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Purple
+- Violet
+- Berserk > One Piece
 
-## For more information
+## Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Theme preview](./preview.jpg)
 
-**Enjoy!**
+## Installazione
+
+1. Apri **Visual Studio Code**.
+2. Vai su **View > Command Palette**.
+3. Digita `Extensions: Install Extensions`.
+4. Cerca "`NomeTema`" e clicca su `install`.
+5. Una volta installato, vai su **File > Preferences > Color Theme** e seleziona "`NomeTema`".
+
+## Licenza
+
+Specifica la licenza sotto la quale il tema è distribuito. Ad esempio:
+
