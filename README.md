@@ -10,7 +10,7 @@ A very purple teme for real coders
 
 ## Preview
 
-![Theme preview](./preview.jpg)
+![Theme preview](https://github.com/Omatita/matitheme/blob/master/preview.jpg)
 
 ## Installazione
 
