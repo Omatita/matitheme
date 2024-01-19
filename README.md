@@ -1,5 +1,4 @@
 # Matitheme
-![Logo](https://github.com/Omatita/matitheme/blob/master/logo-dark.png)
 
 A very purple teme for real coders
 
@@ -11,7 +10,7 @@ A very purple teme for real coders
 
 ## Preview
 
-![Theme preview](https://github.com/Omatita/matitheme/blob/master/preview.jpg)
+![Theme preview](https://raw.githubusercontent.com/Omatita/matitheme/master/preview.jpg)
 
 ## License
 MIT License

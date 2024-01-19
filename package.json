@@ -3,8 +3,8 @@
   "name": "matitheme",
   "displayName": "Matitheme",
   "description": "neon purple theme for real coders",
-  "version": "0.0.2",
-  "icon": "./logo-dark.png",
+  "version": "0.0.3",
+  "icon": "./logo-dark1.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Omatita/matitheme"
