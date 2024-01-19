@@ -1,4 +1,5 @@
 # Matitheme
+![Logo](https://github.com/Omatita/matitheme/blob/master/logo-dark.png)
 
 A very purple teme for real coders
 
@@ -12,15 +13,5 @@ A very purple teme for real coders
 
 ![Theme preview](https://github.com/Omatita/matitheme/blob/master/preview.jpg)
 
-## Installazione
-
-1. Apri **Visual Studio Code**.
-2. Vai su **View > Command Palette**.
-3. Digita `Extensions: Install Extensions`.
-4. Cerca "`NomeTema`" e clicca su `install`.
-5. Una volta installato, vai su **File > Preferences > Color Theme** e seleziona "`NomeTema`".
-
-## Licenza
-
-Specifica la licenza sotto la quale il tema è distribuito. Ad esempio:
-
+## License
+MIT License
