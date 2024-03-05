@@ -3,7 +3,7 @@
   "name": "matitheme",
   "displayName": "Matitheme",
   "description": "neon purple theme for real coders",
-  "version": "0.0.3",
+  "version": "1.0.2",
   "icon": "./logo-dark1.png",
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
         "label": "Matitheme",
         "uiTheme": "vs-dark",
         "path": "./themes/Matitheme-color-theme.json"
+      },
+      {
+        "label": "Matitheme Gotham",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gotham-color-theme.json"
       }
     ]
   }
